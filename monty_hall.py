@@ -97,6 +97,6 @@ if __name__ == '__main__':
 
     print(f"Running {n_simulations} simulations.")
     if switch:
-        print(f"Stay probability: {probability}")
-    else:
         print(f"Switch probability: {probability}")
+    else:
+        print(f"Stay probability: {probability}")
